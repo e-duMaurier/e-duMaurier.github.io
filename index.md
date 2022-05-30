@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+Welcome to my GitHub Pages
+There's not much going on here at the moment, it's a work in progress.
 
-You can use the [editor on GitHub](https://github.com/e-duMaurier/e-duMaurier.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I guess I'll be using this space as my online portfolio. A place to put any temporary projects I'm working on, a place to link to projects or documents that I may use if needing to show others my work, etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Me?
+I’m a huge geek, love all things computer and techy related.
 
-### Markdown
+Currently working as a technical support engineer for a software company and studying part time through the Open university for my degree in Computing & IT Software Engineering.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In my spare time I seek out as much information and knowledge on a range of subjects. I’m trying to learn Game Development with Unity, Unreal Engine and C# as well as picking up some learning material on Java, SQL, networking and some network penetration testing.
 
-```markdown
-Syntax highlighted code block
+There’s so much out there that is fascinating, and I want to get an understanding of as much as I can. I’ve also loved the coding side of things ever since a friend first introduced me to the world of Pascal in DOS. Have been hooked ever since and I have some limited experience with Pascal, Delphi, C++ and Visual Basic
 
-# Header 1
-## Header 2
-### Header 3
+Current Projects (Works in progress)
+Currently working through an online Java course, then looking to expand on this with app development with Java and Kotlin.
 
-- Bulleted
-- List
+Also going to be going through the course again, looking at all the challenges and exercises and uploading my results of those challenges. While they're not great pieces of code, they're a good resource to go back on and look at my own progression.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/e-duMaurier/e-duMaurier.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Alongside Java, I'm looking to further develop skills with C# and using Unity to work on building a text based adventure game. It is still very much a work in progress and so far, I just have a basic underlying functionality, but making progress as and when I can.
