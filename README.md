@@ -2,15 +2,10 @@
 
 This is s a work in progress, but I guess it's time for an update, as it has been a while.
 
-This is still aA place to put any temporary projects I'm working on, a place to link to projects or documents that I may use if needing to show others my work, etc.
+As an experienced IT professional with over 7 years in technical support, I’ve developed extensive expertise in modern IT environments. My journey began in 1995 with building PCs and configuring home networks, and has evolved to include a robust understanding of virtualization technologies such as Hyper-V, VMware ESXi & Workstation, Oracle VirtualBox, and Proxmox.
 
-### Me?
+I earned a Diploma of Higher Education in Computing & IT in 2023 and am currently pursuing a Bachelor's Degree. Alongside this, I hold a BTL1 Level 1 cybersecurity certification, and I am undertaking the SOC100 cybersecurity certification. Recently, I’ve embraced Linux as my daily operating system, utilizing VMs on bare-metal setups and cloud VPS to host open-source applications and explore containerization with Docker.
 
-I'm a huge geek, love all things computer and techy related. Currently I've been put out of work, so in that time, I am trying to build my knowledge and skill set, while I am looking for work. I achieved a Diploma of Higher Education in Computing and IT with The Open University, and I am now studying for a Bachelor's Degree in Computing with Arden University. 
+I continually seek to expand my knowledge through platforms like Try Hack Me, Hack The Box, and Blue Team Labs Online. I am also developing a home SOC lab, enhancing my skills in Windows and Linux system installation and administration, including advanced configurations with Windows Server and Group Policy Objects (GPO).
 
-In my spare time I seek out as much information and knowledge on a range of subjects. I would like to get more time to learn Game Development with Unity, Unreal Engine and C#, and I alo want to pick up some more knowledge with  Java, SQL, networking and some network penetration testing & cyber security, to give myself some all round knowledge and experience. 
-There's so much out there that is fascinating, and I want to get an understanding of as much as I can.
-
-### Current Projects (Works in progress)
-I am currently using Coursera to work through an IBM authorised DevOps and Software Engineering professional certificate, and have some ideas (probably too big for my solo self) for projects or applications, that will be nice for use when I'm playing, or preparing TTRPG games.
-I am also working on expanding my home lab, taking advantage of some open-source applications, learning Linux, and I want to learn some automation, monitoring and reporting tools so I can maintain my local machines, VMs and VPS systems quickly and easily.
+Driven by a passion for continuous learning and improvement, I am committed to leveraging my technical expertise to innovate and solve complex IT challenges. I thrive in collaborative environments and am eager to contribute to forward-thinking teams.
